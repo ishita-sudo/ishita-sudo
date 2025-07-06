@@ -79,7 +79,7 @@ I'm always open to new opportunities and collaborations. Feel free to connect wi
   <a href="https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://[YOUR-PORTFOLIO-WEBSITE].com">
+  <a href="https://ishita-sudo.github.io/my-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=React&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://twitter.com/[YOUR-TWITTER-USERNAME]">
