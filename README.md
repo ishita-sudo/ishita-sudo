@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTF4a2FyaXQxM2hwY2poenV3Y21tcHVxcnAxcTFqaW5wbndiNWFwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
   <h1>
- 🥲Hi there, I'm Ishita Ghosh
+ 🥲Hiiiiiiii!
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-wave.gif?1531849430" width="30"/>
   </h1>
   <div id="section-1" display="flex">
