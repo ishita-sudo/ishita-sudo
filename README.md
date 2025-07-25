@@ -72,6 +72,15 @@ Here are the technologies I've been working with:
       <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDia1M4fTyyFT_yPbamzW6JGy_e7ZsywQQuGydrdu3EX1vRubhIf6qM1puL1n-c4Pb6IM&usqp=CAU" width="60" height="40"/>
   </a>
+        <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="60" height="40"/>
+  </a>
+        <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://images.codingblocks.com/web/express.png" width="60" height="40"/>
+  </a>
+        <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-sdRIvQxSBfArITwaURCNiCo1hu9Vf_uEQ&s" width="60" height="40"/>
+  </a>
 </p>
 
 </div>
