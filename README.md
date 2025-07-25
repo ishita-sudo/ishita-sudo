@@ -69,6 +69,9 @@ Here are the technologies I've been working with:
     <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="40"/>
   </a>
+      <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDia1M4fTyyFT_yPbamzW6JGy_e7ZsywQQuGydrdu3EX1vRubhIf6qM1puL1n-c4Pb6IM&usqp=CAU" width="60" height="40"/>
+  </a>
 </p>
 
 </div>
